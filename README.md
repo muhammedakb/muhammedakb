@@ -1,13 +1,13 @@
 ### Hi there I'm Muhammet 👋
 
-<img alt="fly" src="https://images.unsplash.com/photo-1612525736240-3cb22fd26a32?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1500&q=80)" height="200em" align="right" /> </br></br><hr>
+<img alt="fly" src="https://images.unsplash.com/photo-1612525736240-3cb22fd26a32?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1500&q=80)" height="200em" align="right" /> </br></br>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 🔭 I'm currently working on Front end web development.
   - 🌱 I’m currently learning JavaScript, React(I'll learn Vue.js soon), Expressjs.
   - 👯 I’m looking to collaborate on front end(mostly) or full stack(js) projects.
-  - ⚡ Fun fact: I'm good FPS games player also i like CSS Battle.
+  - ⚡ Fun fact: I'm good FPS games player also i like CSS Battle.<hr>
 
 <img height="180em" alt="info" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammedakb&layout=compact&langs_count=8&theme=algolia" align="right"/>
 
