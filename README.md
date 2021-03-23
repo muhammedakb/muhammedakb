@@ -10,19 +10,20 @@
   - 👯 I’m looking to collaborate on front end(mostly) or full stack(js) projects.
   - ⚡ Fun fact: I'm good FPS games player also i like CSS Battle.
 
+<img height="180em" alt="info" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammedakb&layout=compact&langs_count=8&theme=algolia" align="right"/>
+
 ### 🛠 &nbsp;Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=sass)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-
-
-
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -34,7 +35,8 @@
 <a href="https://www.linkedin.com/in/muhammet-akbulut-21a472187/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://instagram.com/muhammedakb" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/muhammedakb68" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="mailto:muhammetakb68@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""Mail></a>
-<a href="https://discord.gg/Vvcg95zBjr" target="_blank"><img src="https://img.shields.io/badge/M4l4kl1-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt=""Discord></a>
+<a href="mailto:muhammetakb68@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"></a>
+<a href="https://discord.gg/Vvcg95zBjr" target="_blank"><img src="https://img.shields.io/badge/M4l4kl1-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://steamcommunity.com/profiles/76561198353184705" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
 </div>
 
