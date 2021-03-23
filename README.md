@@ -36,6 +36,6 @@
 <a href="https://twitter.com/muhammedakb68" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="mailto:muhammetakb68@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"></a>
 <a href="https://discord.gg/Vvcg95zBjr" target="_blank"><img src="https://img.shields.io/badge/M4l4kl1-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-<a href="https://steamcommunity.com/profiles/76561198353184705" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
+<a href="https://steamcommunity.com/profiles/76561198353184705" target="_blank"><img src="https://img.shields.io/badge/M4l4kl1-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
 </div>
 
