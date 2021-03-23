@@ -30,7 +30,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-### Find me elsewhere 🌐
+### 🌐 &nbsp;Find me elsewhere 
 
 <div align="center">
 <a href="https://www.linkedin.com/in/muhammet-akbulut-21a472187/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
