@@ -10,8 +10,9 @@
   - ⚡ Fun fact: I'm good FPS games player also i like CSS Battle.
 
 <img height="180em" alt="info" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammedakb&layout=compact&langs_count=8&theme=algolia" align="right"/>
-</br>
+
 ### 🛠 &nbsp;Tech Stack
+</br>
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
@@ -28,9 +29,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-</br>
-### 🤝🏻 &nbsp;Find me elsewhere 
 
+### 🤝🏻 &nbsp;Find me elsewhere 
+</br>
 <div align="center">
 <a href="https://www.linkedin.com/in/muhammet-akbulut-21a472187/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://instagram.com/muhammedakb" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
