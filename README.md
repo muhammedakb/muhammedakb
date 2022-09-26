@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🔭 I'm currently working on Front end web development.
-  - 🌱 I’m currently learning and using JavaScript, TypeScript, React.js.
+  - 🌱 I’m currently learning and using JavaScript, TypeScript, React and React Native.
   - 👯 I’m looking to collaborate on front end(mostly) or full stack(js) projects.
   - ⚡ Fun fact: I'm good FPS games player also i like CSS Battle.<hr>
 
