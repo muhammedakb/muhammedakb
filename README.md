@@ -26,7 +26,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Storybook](https://img.shields.io/badge/storybook-fff?style=for-the-badge&logo=storybook)&nbsp;
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)&nbsp;
-![Npm](https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
+![Npm](https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=fff&color=CA0001)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;<hr>
