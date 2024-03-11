@@ -15,12 +15,16 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![Material UI](https://img.shields.io/badge/Mui-017EFF?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
+![Tailwind](https://img.shields.io/badge/tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-2E74C0?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Next.js](https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=next.js)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Redux Toolkit](https://img.shields.io/badge/redux%20toolkit-000?style=for-the-badge&logo=redux&logoColor=BA8FFF)&nbsp;
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Storybook](https://img.shields.io/badge/storybook-fff?style=for-the-badge&logo=storybook)&nbsp;
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)&nbsp;
 ![Npm](https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
