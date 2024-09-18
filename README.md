@@ -5,9 +5,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🔭 I'm currently working on Front end web development.
-  - 🌱 I’m currently learning and using JavaScript, TypeScript, React and React Native.
+  - 🌱 I’m currently learning and using JavaScript, TypeScript, React, React Native, Next.js and Nest.js.
   - 👯 I’m looking to collaborate on front end(mostly) or full stack(js) projects.
-  - ⚡ Fun fact: I'm good FPS games player also i like CSS Battle.<hr>
 
 <img height="180em" alt="info" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammedakb&layout=compact&langs_count=8&theme=algolia" align="right"/>
 
@@ -24,9 +23,8 @@
 ![Redux Toolkit](https://img.shields.io/badge/redux%20toolkit-000?style=for-the-badge&logo=redux&logoColor=BA8FFF)&nbsp;
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Nest.js](https://img.shields.io/badge/Nest.js-000?style=for-the-badge&logo=nestjs&logoColor=EA285A)&nbsp;
 ![Storybook](https://img.shields.io/badge/storybook-fff?style=for-the-badge&logo=storybook)&nbsp;
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)&nbsp;
-![Npm](https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=fff&color=CA0001)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;<hr>
